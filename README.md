@@ -1,2 +1,2 @@
 # kodeparday-kodeday
-Web Aplication
+Web Application
